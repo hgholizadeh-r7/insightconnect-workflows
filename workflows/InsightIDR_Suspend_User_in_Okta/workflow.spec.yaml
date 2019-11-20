@@ -8,6 +8,7 @@ vendor: rapid7
 support: rapid7
 status: []
 test: []
+trythis: []
 tags:
 - insightidr
 - okta
