@@ -7,6 +7,7 @@ version: 1.0.0
 vendor: rapid7
 support: rapid7
 status: []
+test: []
 tags:
 - insightidr
 - okta
